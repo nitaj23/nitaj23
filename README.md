@@ -7,7 +7,7 @@ I'm passionate about **Machine Learning, Deep Learning, and Bioinformatics**. I 
 ## 🛠️ Languages & Tools
 
 - **Programming Languages:** C, Java, Python
-- **Python Libraries:** pandas, numpy, pytorch
+- **Python Libraries:** pandas, numpy, pytorch, sci-kit learn
 - **Web:** HTML, CSS
 
 ## 🌱 Currently Learning
