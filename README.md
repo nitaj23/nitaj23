@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm passionate about **Machine Learning, Deep Learning, and Bioinformatics**. I enjoy exploring the intersection of computer science and biology, and love building intelligent systems that solve real-world problems.
+I'm passionate about **Machine Learning, Deep Learning, and Bioinformatics**. I enjoy exploring the intersection of computer science and biology.
 
 ## 🛠️ Languages & Tools
 
