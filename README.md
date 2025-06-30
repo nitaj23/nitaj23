@@ -1,4 +1,4 @@
-# 👋 Hi, I'm nitaj23!
+# 👋 Hi, I'm Jatin Rudraswamymath!
 
 ## 🚀 About Me
 
