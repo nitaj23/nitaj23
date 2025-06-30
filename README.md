@@ -1,7 +1,36 @@
-- 👋 Hi, I’m Jatin Rudraswamymath 
-- 👀 I’m interested in music, sports, bioinformatics/health informatics
-- 🌱 I’m currently learning Machine Learning and Deep Learning
+# 👋 Hi, I'm nitaj23!
 
+## 🚀 About Me
+
+I'm passionate about **Machine Learning, Deep Learning, and Bioinformatics**. I enjoy exploring the intersection of computer science and biology, and love building intelligent systems that solve real-world problems.
+
+## 🛠️ Languages & Tools
+
+- **Programming Languages:** C, Java, Python
+- **Python Libraries:** pandas, numpy, pytorch
+- **Web:** HTML, CSS
+
+## 🌱 Currently Learning
+
+- Advanced Deep Learning techniques
+- Bioinformatics algorithms and applications
+
+## 📫 How to reach me
+
+Feel free to connect or collaborate!  
+<!-- Add your email, LinkedIn, or other contact info here -->
+
+
+## 🏀 Hobbies
+
+I love making music and food
+I enjoy playing all kinds of sports
+
+---
+
+<!--
+**nitaj23/nitaj23** is a ✨ special ✨ repository because its README will appear on your GitHub profile.
+-->
 
 
 <!---
