@@ -19,12 +19,11 @@ I'm passionate about **Machine Learning, Deep Learning, and Bioinformatics**. I 
 
 Feel free to connect or collaborate!  
 <!-- Add your email, LinkedIn, or other contact info here -->
-
+LinkedIn: https://www.linkedin.com/in/jatin-rudraswamymath/
 
 ## 🏀 Hobbies
 
-I love making music and food
-I enjoy playing all kinds of sports
+I love making music and food. I enjoy playing all kinds of sports
 
 ---
 
